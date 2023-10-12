@@ -1,0 +1,1 @@
+This code performs both emotional and aspect based sentiment analysis which is an upgraded version of sentiment analysis 
